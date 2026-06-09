@@ -1,0 +1,20 @@
+{
+  "test_backup": {
+    "name": "test_backup",
+    "description": "Test photo backup workflow",
+    "trigger": "manual",
+    "condition": null,
+    "actions": [
+      {
+        "type": "notification",
+        "params": {
+          "title": "Backup Test",
+          "message": "This is a test backup workflow"
+        }
+      }
+    ],
+    "enabled": true,
+    "created": "2026-05-07T07:04:27.389969",
+    "last_run": "2026-05-07T07:04:33.563831"
+  }
+}

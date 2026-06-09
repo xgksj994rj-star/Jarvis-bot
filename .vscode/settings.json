@@ -1,0 +1,5 @@
+{
+    "python-envs.defaultEnvManager": "ms-python.python:system",
+    "python-envs.defaultPackageManager": "ms-python.python:pip",
+    "python.defaultInterpreterPath": "C:\\Users\\Calli\\OneDrive\\Desktop\\Jarvis MK3\\venv-py311\\Scripts\\python.exe"
+}

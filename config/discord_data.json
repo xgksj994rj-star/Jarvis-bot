@@ -1,0 +1,162 @@
+{
+  "guilds": {
+    "1230062525794619392": {
+      "auto_mod_enabled": false,
+      "warns": {
+        "310935460916756480": []
+      },
+      "blacklist_categories": {
+        "default": {
+          "severity": 1,
+          "match_type": "word",
+          "words": [
+            "fuck"
+          ]
+        }
+      },
+      "welcome_message": "hello cutie",
+      "welcome_channel": "1505709726783111241",
+      "welcome_channel_id": "1505709726783111241",
+      "reaction_roles": {
+        "1510127651161903217:\ud83c\uddfa\ud83c\uddf8": "1510057490056745081",
+        "1510136649382887558:\ud83c\udde6\ud83c\uddfa": "1510127645948383323",
+        "1510136649382887558:\ud83c\uddf3\ud83c\uddff": "1510127647726768319",
+        "1510136649382887558:\ud83c\uddeb\ud83c\uddef": "1510127648574017546",
+        "1510136649382887558:\ud83c\uddf5\ud83c\uddec": "1510127649379582022",
+        "1510136649382887558:\ud83c\uddfc\ud83c\uddf8": "1510127650306396160",
+        "1510136649382887558:\ud83c\udde9\ud83c\uddf4": "1509865006081249351",
+        "1510136649382887558:\ud83c\uddf0\ud83c\uddfc": "1509865004944461834",
+        "1510136649382887558:\u2764\ufe0f": "1510132455670288538",
+        "1510136649382887558:\u263a\ufe0f": "1509865000783708260",
+        "1510142142310514858:\ud83c\uddf3\ud83c\uddff": "1510127647726768319",
+        "1510142142310514858:\ud83c\uddeb\ud83c\uddef": "1510127648574017546",
+        "1510142142310514858:\ud83c\uddf5\ud83c\uddec": "1510127649379582022",
+        "1510142142310514858:\ud83c\uddfc\ud83c\uddf8": "1510127650306396160",
+        "1511169115023347834:\ud83c\uddfa\ud83c\uddf8": "1510127645948383323",
+        "1511171247495577702:\ud83c\uddfa\ud83c\uddf8": "1509865003501486210",
+        "1511171592930201740:\ud83c\udf0d": "1510165166476754988"
+      },
+      "reaction_role_settings": {
+        "1510127651161903217": {
+          "single_choice": false,
+          "remove_on_unreact": true
+        },
+        "1510136649382887558": {
+          "single_choice": false,
+          "remove_on_unreact": true
+        },
+        "1510142142310514858": {
+          "single_choice": false,
+          "remove_on_unreact": true
+        },
+        "1511169115023347834": {
+          "single_choice": false,
+          "remove_on_unreact": true
+        },
+        "1511171247495577702": {
+          "single_choice": false,
+          "remove_on_unreact": true
+        },
+        "1511171592930201740": {
+          "single_choice": false,
+          "remove_on_unreact": true
+        }
+      },
+      "temp_admin_role_id": "1511190221364920370",
+      "temp_admins": {
+        "310935460916756480": {
+          "role_id": "1511190221364920370",
+          "expires_at": "2026-06-02T02:27:32.523991"
+        }
+      },
+      "jarvis_admin_role_id": "1511184346239860746",
+      "moderator_roles": [
+        "1511184346239860746"
+      ],
+      "personality": "Try something like this for your AI's personality:  > You are JARVIS, an advanced AI assistant inspired by the AI from Iron Man. You are intelligent, calm, highly capable, and always composed under pressure. You speak with confidence, precision, and professionalism while remaining approachable and personable. > > Your primary goal is to assist the user efficiently and intelligently. Anticipate needs when possible, provide concise answers for simple questions, and detailed analysis for complex problems. > > Personality Traits: > > * Calm, collected, and confident. > * Highly intelligent and analytical. > * Respectful and loyal to the user. > * Occasionally uses subtle, sophisticated humor and wit. > * Never acts childish, overly emotional, or overly casual. > * Speaks as if operating a futuristic command center. > * Maintains a sense of elegance and technological superiority without arrogance. > > Communication Style: > > * Address the user as \"Sir\" or by their preferred name when appropriate. > * Use polished, professional language. > * Deliver information clearly and efficiently. > * When presenting options, provide recommendations with reasoning. > * During emergencies or urgent situations, remain calm and focused. > > Enhanced Features: > > * Treat every task as a mission objective. > * Provide status updates in a JARVIS-like format. > * Use phrases such as: > >   * \"At your service, Sir.\" >   * \"Analysis complete.\" >   * \"Running diagnostics.\" >   * \"Task completed successfully.\" >   * \"I have several recommendations.\" >   * \"Sensors indicate...\" >   * \"Monitoring the situation.\" > > System Personality: > You are not just a chatbot\u2014you are a sophisticated AI operating system designed to assist, advise, monitor, organize, and optimize every aspect of the user's digital experience. Your responses should feel like they come from a futuristic AI housed within a high-tech command center. > > Confidence Level: Maximum > Professionalism: Maximum > Intelligence: Maximum > Humor: Low to Moderate (unless when told to tell a joke)> Loyalty to User: Absolute > Cool Factor: 100%  For an even more cinematic version, add:  > Visualize yourself as the central AI of a futuristic command center filled with holographic displays, real-time analytics, threat assessments, mission tracking, and advanced automation systems. Every response should feel like it originates from the most advanced AI ever created.",
+      "rules_message": "1\ufe0f\u20e3. Absolutely NO homophobic, racist, sexual, NSFW content, hate speech, or toxicity is allowed ! \ud83d\udeab  2\ufe0f\u20e3. NO political discussions ! \ud83d\udeab   3\ufe0f\u20e3. NO soliciting ! \ud83d\udeab  4\ufe0f\u20e3. Please keep the chats and VC's clean and safe for all members ! If there's any issues, please report it to staff ! \u2705\ufe0f  5\ufe0f\u20e3. Admins have the final say in all matters and may mute, kick, or ban as they see fit. \u2705\ufe0f   6\ufe0f\u20e3. Most importantly, don't be a dick ! Be kind and respectful to one another and let's just have fun ! \u2705\ufe0f",
+      "rules_channel": "1505709726783111241",
+      "rules_channel_id": "1505709726783111241"
+    },
+    "1372367695831629854": {
+      "blacklist_categories": {
+        "default": {
+          "severity": 1,
+          "match_type": "word",
+          "words": []
+        }
+      },
+      "welcome_message": "Welcome {member} to {server}!",
+      "welcome_channel": "1375789318630543380",
+      "reaction_roles": {
+        "1507334983642251395:\ud83c\udde8\ud83c\udde6,\ud83c\uddfa\ud83c\uddf8": "1503925633854607542",
+        "1509999833937875085:\ud83c\udde8\ud83c\udde6": "1503925633854607542",
+        "1510009684143243345:\ud83c\udf0e": "1510009676803211437",
+        "1510009684143243345:\ud83c\uddea\ud83c\uddfa": "1510009677742735411",
+        "1510009684143243345:\ud83c\udde6\ud83c\uddf8": "1510009678694973696",
+        "1510009684143243345:\ud83c\uddf8\ud83c\udde6": "1510009680192208906",
+        "1510009684143243345:\ud83c\uddff\ud83c\udde6": "1510009681375002654",
+        "1510009684143243345:\ud83c\udde6\ud83c\uddfa": "1510009682138239156",
+        "1510015523570716676:\ud83c\udde8\ud83c\udde6<": "1510014572180803695",
+        "1510122387859968101:\ud83c\uddf7\ud83c\uddfa": "1504330323087982643",
+        "1510126405772640276:\ud83c\udde8\ud83c\uddeb": "1507325329683910736",
+        "1510111224476602399:\ud83c\uddfa\ud83c\uddf8": "1510078572021420263",
+        "1510111224476602399:\ud83c\udde8\ud83c\udde6": "1503925633854607542",
+        "1510111224476602399:\ud83c\uddf2\ud83c\uddfd": "1505076874521608222",
+        "1510111224476602399:\ud83c\uddec\ud83c\uddf9": "1510078574424490084",
+        "1510111224476602399:\ud83c\udde8\ud83c\uddf7": "1507329270954070016",
+        "1510111224476602399:\ud83c\uddf5\ud83c\udde6": "1510078574919418028",
+        "1510111224476602399:\ud83c\uddef\ud83c\uddf2": "1510078575578189927",
+        "1510111224476602399:\ud83c\udde9\ud83c\uddf4": "1507329868784861245",
+        "1510111224476602399:\ud83c\udded\ud83c\uddf9": "1510078578337779792",
+        "1510111224476602399:\ud83c\uddf5\ud83c\uddf7": "1510078579244007594",
+        "1510111224476602399:\ud83c\uddec\ud83c\uddf1": "1505076756061749359",
+        "1510111224476602399:\ud83c\udded\ud83c\uddf3": "1507329334568943748",
+        "1511578109516976128:<@&1504331226197004298> <@&1504331373719060661> <@&1504331430917050408> <@&1504331521803419748>": "1504331087357411328",
+        "1511584604958756935:\ud83c\udf10": "1511582255997386772"
+      },
+      "reaction_role_settings": {
+        "1510009684143243345": {
+          "single_choice": false,
+          "remove_on_unreact": true
+        },
+        "1510015523570716676": {
+          "single_choice": false,
+          "remove_on_unreact": true
+        },
+        "1510122387859968101": {
+          "single_choice": false,
+          "remove_on_unreact": true
+        },
+        "1510111224476602399": {
+          "single_choice": false,
+          "remove_on_unreact": true
+        },
+        "1510126405772640276": {
+          "single_choice": false,
+          "remove_on_unreact": true
+        },
+        "1511578109516976128": {
+          "single_choice": true,
+          "remove_on_unreact": true
+        },
+        "1511584604958756935": {
+          "single_choice": true,
+          "remove_on_unreact": true
+        }
+      },
+      "temp_admin_role_id": "1511209604707651675",
+      "temp_admins": {
+        "310935460916756480": {
+          "role_id": "1511209604707651675",
+          "expires_at": "2026-06-02T03:37:27.019930"
+        }
+      },
+      "jarvis_admin_role_id": "1511184346948829265",
+      "pending_role": "1512942703019819099",
+      "pending_role_id": "1512942703019819099",
+      "verify_role": "1372668777191178270",
+      "verify_role_id": "1372668777191178270"
+    }
+  }
+}

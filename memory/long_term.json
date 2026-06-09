@@ -1,0 +1,97 @@
+{
+  "identity": {
+    "name": {
+      "value": "Devastator",
+      "updated": "2026-04-26"
+    },
+    "phone_number": {
+      "value": "7854625375",
+      "updated": "2026-05-16"
+    },
+    "discord_id": {
+      "value": "310935460916756480",
+      "updated": "2026-05-21"
+    }
+  },
+  "preferences": {
+    "game_one": {
+      "value": "Empyrion - Galactic Survival",
+      "updated": "2026-04-26"
+    },
+    "game_two": {
+      "value": "Atlas",
+      "updated": "2026-04-26"
+    },
+    "weather_unit": {
+      "value": "Fahrenheit",
+      "updated": "2026-04-26"
+    },
+    "game_three": {
+      "value": "the isle",
+      "updated": "2026-04-26"
+    },
+    "game_four_batch": {
+      "value": "run game 4 batch file",
+      "updated": "2026-04-26"
+    },
+    "persona": {
+      "value": "Jarvis (Marvel)",
+      "updated": "2026-05-02"
+    },
+    "voldemort_guild_id": {
+      "value": "1230062525794619392",
+      "updated": "2026-05-18"
+    },
+    "browser_preference": {
+      "value": "operagx",
+      "updated": "2026-05-24"
+    }
+  },
+  "projects": {
+    "active_projects": {
+      "value": "stuff I work on",
+      "updated": "2026-05-18"
+    }
+  },
+  "relationships": {
+    "owner_creator": {
+      "value": "User is my owner and creator",
+      "updated": "2026-05-21"
+    },
+    "owner_id": {
+      "value": "310935460916756480",
+      "updated": "2026-05-21"
+    }
+  },
+  "wishes": {},
+  "notes": {
+    "discord_display": {
+      "value": "display 2",
+      "updated": "2026-04-26"
+    },
+    "current_display": {
+      "value": "display 1",
+      "updated": "2026-04-26"
+    },
+    "weather_display_preference": {
+      "value": "tell me, not show me",
+      "updated": "2026-04-26"
+    },
+    "never_take_water": {
+      "value": "User stated they never have to take water",
+      "updated": "2026-05-13"
+    },
+    "west_well_beach_context": {
+      "value": "User mentioned West Well Beach",
+      "updated": "2026-05-16"
+    },
+    "pit_possi_server_id": {
+      "value": "1498854250502029412",
+      "updated": "2026-05-18"
+    },
+    "sleep_duration": {
+      "value": "2 hours of sleep per day",
+      "updated": "2026-06-02"
+    }
+  }
+}

@@ -1,0 +1,48 @@
+# Python cache and bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv*/
+env*/
+ENV/
+.python-version
+
+# IDE/editor settings
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Packaging
+build/
+dist/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Testing and coverage
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+
+# Logs and runtime files
+*.log
+*.tmp
+*.pid
+
+# Local environment variables
+.env
+*.env
+
+# Secrets and local config
+config/api_keys.json
+
+# Misc
+*.swp
+*.swo
+*.DS_Store
+Thumbs.db
